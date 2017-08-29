@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="tehttp://schemas.android.com/apk/res/android" xmlns:android1="http://schemas.android.com/apk/res/android">
+    <item android1:state_pressed="true" android1:drawable="@drawable/liste_bouton_on"/>
+    <item android1:state_pressed="false" android1:drawable="@drawable/liste_bouton_off"/>
+
+
+</selector>

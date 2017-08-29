@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guide</string>
+    <string name="hotel_resto"><b>HOTEL RESTO</b>\nRetrouvez les meilleurs hôtels et restaurants</string>
+    <string name="reserver_un_restaurant">Réserver\nUN RESTAURANT</string>
+    <string name="reserver_un_hotel">Réserver\nUN HOTEL</string>
+
+    <!-- Listing -->
+    <string name="listing_title_restaurant">Les Restaurants</string>
+    <string name="listing_title_hotel">Les Hôtels</string>
+    <string name="listing_hotels_stars">%s étoiles</string>
+</resources>
